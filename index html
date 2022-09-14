@@ -4,11 +4,12 @@
 <meta charset='utf-8'>
 <meta http-equiv='x-ua-compatible' content='ie=edge'>
 <title>ciclo de palestra de profissões </title>
-<meta name='viewport' content='width=device width', initial-scale='1'>
-<link rel='stylesheet' type= 'text/css' media='screen' href='STYLE.css'>
+<meta name='viewport' content='width=device width, initial-scale=1'>
+<link rel='stylesheet' type= 'text/css' media='screen' href='style.css'>
 <script src='main.js'></script>
 </head>
 <body>
 <h1><b>como funciona</b></h1>
  <small> trocar os itens do seu inventario por creditos, que poderão ser utilizadas para abrir caixas com uma grande variação de itens </small>
  </body>
+</html>
